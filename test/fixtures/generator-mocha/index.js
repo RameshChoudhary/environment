@@ -1,4 +1,4 @@
-var Generator = require('yeoman-generator');
+var Generator = require('oe-generator');
 
 var Generator = module.exports = Generator.extend({
   default: function () {
