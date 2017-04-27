@@ -1,24 +1,14 @@
 {
-  "name": "yeoman-environment",
+  "name": "oe-environment",
   "version": "1.6.6",
   "description": "Handles the lifecyle and bootstrapping of generators in a specific environment",
-  "homepage": "http://yeoman.io",
   "author": "Yeoman",
   "files": [
     "lib"
   ],
   "main": "lib/environment.js",
   "keywords": [
-    "development",
-    "dev",
-    "build",
-    "tool",
-    "cli",
-    "scaffold",
-    "scaffolding",
-    "generate",
     "generator",
-    "yeoman",
     "app"
   ],
   "license": "BSD-2-Clause",
